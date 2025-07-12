@@ -1,6 +1,7 @@
 # PDF Merge Utility
 
 This Node.js utility helps you merge multiple PDF files into a single PDF and count the total number of pages in all PDF files within a folder.
+It adds blank page at the end of a pdf file while merging for odd pages to avoid printing new file on the back of the last page of previous PDF file.
 
 ## Features
 
